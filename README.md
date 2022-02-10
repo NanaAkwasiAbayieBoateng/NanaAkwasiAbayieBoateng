@@ -15,14 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<iframe src="/img/FakeNewsDetector/file1.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="500"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
+![png](/img/FakeNewsDetector/output_63_0.png)
 
 My name is Nana Boateng. I am a Statistician, Econometrician and a Data Scientist:
 
