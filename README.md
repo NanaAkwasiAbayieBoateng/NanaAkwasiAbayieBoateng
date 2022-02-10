@@ -34,17 +34,16 @@ Nana's Github  Space
 <br>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/m-clark/m-clark.github.io/master/img/mc_logo.png" style="display:block; margin: 0 auto;"   width = '10%'>
+<img src="https://github.com/NanaAkwasiAbayieBoateng/NanaAkwasiAbayieBoateng.github.io/blob/master/img/ExploratoryDataAnalysis/18.png" style="display:block; margin: 0 auto;"   width = '10%'>
 </p>
 
 <br>
 <br>
 
 
-I'm Michael, and I work primarily with R doing all manner of things with statistics and data science.  Here you'll find source code for workshops, packages, posts, and various other things.
-
+I'm Nana, and I work primarily with Python and R doing all manner of things with statistics and data science. 
 <!--
-<img src="https://github.com/m-clark/m-clark/raw/master/img/M.png" style="display: inline; vertical-align: top; width: auto; height: 1.2em"></img>
+<img src="https://github.com/NanaAkwasiAbayieBoateng/NanaAkwasiAbayieBoateng.github.io/blob/master/img/ExploratoryDataAnalysis/18.png" style="display: inline; vertical-align: top; width: auto; height: 1.2em"></img>
 -->
 
 <br>
@@ -60,19 +59,11 @@ I'm Michael, and I work primarily with R doing all manner of things with statist
 
 <p align="center">
 
-[![personal website](https://img.shields.io/badge/-website-ff5500?style=flat&link=https://m-clark.github.io/)](https://m-clark.github.io) 
-[![Twitter](https://img.shields.io/twitter/url?color=%231DA1F2&label=@statsdatasci&logo=twitter&logoColor=%231DA1F2&style=flat&url=https://twitter.com/statsdatasci)](https://twitter.com/statsdatasci)
-[![LinkedIn](https://img.shields.io/twitter/url?color=%230077b5&label=connect&logo=linkedin&logoColor=%230077b5&style=flat&url=https://www.linkedin.com/in/michael-clark-b475b5170/)](https://www.linkedin.com/in/michael-clark-b475b5170/) 
+[![personal website]()](http://restanalytics.com/aboutme/) 
 
 </p>
 
 ---
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=m-clark&layout=compact&theme=synthwave&show_icons=true)](https://github.com/m-clark/github-readme-stats)
-
-<!-- &title_color=ff002b&icon_color=00aaff&text_color=ff5500&bg_color=151515 ---> 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-clark&layout=compact&theme=synthwave" /> -->
-
 
 
 ---
