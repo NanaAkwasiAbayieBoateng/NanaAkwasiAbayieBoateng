@@ -16,7 +16,7 @@ Nana's GitHub Space
 
 
 <p align="center">
-<img src="https://github.com/NanaAkwasiAbayieBoateng/NanaAkwasiAbayieBoateng.github.io/blob/master/img/ExploratoryDataAnalysis/18.png" style="display:block; margin: 0 auto;"   width = '150%'>
+<img src="https://github.com/NanaAkwasiAbayieBoateng/NanaAkwasiAbayieBoateng.github.io/blob/master/img/ExploratoryDataAnalysis/18.png" style="display:block; margin: 0 auto;"   width = '150%',height= '100%'>
 </p>
 
 <br>
