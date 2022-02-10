@@ -28,7 +28,7 @@ Sample Size Estimation and Power Analysis.
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/m-clark/m-clark/master/img/gp_plot.png" style="display:block; margin: 0 auto;"   width = '150%'>
+<img src="https://github.com/NanaAkwasiAbayieBoateng/NanaAkwasiAbayieBoateng.github.io/blob/master/img/ExploratoryDataAnalysis/18.png" style="display:block; margin: 0 auto;"   width = '150%'>
 </p>
 
 <br>
