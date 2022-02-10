@@ -13,7 +13,7 @@ Nana's GitHub Space
 
 
 
-I'm Nana, and I work primarily with Python and R doing all manner of things with statistics and data science. 
+I'm Nana, and I work primarily with Python and R to solve applied problems. 
 
 
 [personal website](http://restanalytics.com/aboutme/) 
