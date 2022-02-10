@@ -13,6 +13,18 @@ Nana's GitHub Space
 
 
 
+
+
+<p align="center">
+<img src="https://github.com/NanaAkwasiAbayieBoateng/NanaAkwasiAbayieBoateng.github.io/blob/master/img/ExploratoryDataAnalysis/18.png" style="display:block; margin: 0 auto;"   width = '150%'>
+</p>
+
+<br>
+
+
+
+
+
 My name is Nana Boateng. I am a Statistician, Econometrician and a Data Scientist:
 
 - I am interested in Applying mathematics, statistics,economics and computer science concepts in solving business, economic, finance and industrial problems.
@@ -24,14 +36,6 @@ Sample Size Estimation and Power Analysis.
 - Distributed computer storage and processing : Spark, SQL ,GPU computing
 
 [personal website](http://restanalytics.com/aboutme/) 
-
-
-
-<p align="center">
-<img src="https://github.com/NanaAkwasiAbayieBoateng/NanaAkwasiAbayieBoateng.github.io/blob/master/img/ExploratoryDataAnalysis/18.png" style="display:block; margin: 0 auto;"   width = '150%'>
-</p>
-
-<br>
 
 ---
 
